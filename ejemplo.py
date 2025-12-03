@@ -1,4 +1,4 @@
-nombre = "Marianela"
-apellido = "Morales"
-rol = "Coordinadora"
-comision = "Todas"
+nombre = "Nayla"
+apellido = "Vega"
+rol = "Alumna"
+comision = "3"
